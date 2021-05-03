@@ -8,6 +8,7 @@ body {
   animation: change 10s infinite;
   font-family: sans-serif;
 }
+
 @keyframes change {
   0% {
     background-color: hsla(0, 100%, 68%, 0.979);
